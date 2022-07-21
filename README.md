@@ -1,6 +1,6 @@
 # prediksi-harga-beras
 
-A website for predicting market price of rice, made by flask
+A website for predicting market price of rice, using Linear Regression algorithm
 
 dataset : https://www.bps.go.id/indicator/36/500/1/harga-beras-di-penggilingan-menurut-kualitas.html
 
